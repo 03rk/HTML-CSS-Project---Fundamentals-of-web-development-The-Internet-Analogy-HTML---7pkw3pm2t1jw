@@ -18,7 +18,7 @@ body {
 
 .mobile-display {
   width: 80vw;
-  background-image: url("image69.jpg");
+  background-image: url("image67.jpg");
   height: 600px;
   padding-top: 250px;
   margin-left: 200px;
@@ -35,7 +35,7 @@ body {
   margin-left: 35vw;
   align-items: center;
   background-color: aliceblue;
-  background: url("image67.jpg");
+  background: url("image69.jpg");
 }
 
 .nav-bar ul {
