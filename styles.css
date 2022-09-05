@@ -27,7 +27,7 @@ body {
 .container {
   display: flex;
   position: relative;
-  width: 275px;
+  width: 300px;
   height: 450px;
   border-radius: 10px;
   margin-left: 33vw;
@@ -41,7 +41,7 @@ body {
   margin-top: 400px;
   margin-bottom: 0;
   background-color: white;
-  padding: 8px 5px 5px 0px;
+  padding: 8px 5px 10px 15px;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
 }
